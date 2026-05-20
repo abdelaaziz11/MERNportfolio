@@ -1,8 +1,5 @@
 node_modules/
-.env
-.env.development
-.env.production
-.env.local
+*.env
 build/
 dist/
 .DS_Store
